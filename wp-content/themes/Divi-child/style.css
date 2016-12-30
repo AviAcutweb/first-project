@@ -55,14 +55,70 @@ nav#top-menu-nav #top-menu li:last-child {  padding-right: 0px; }
 .person-detail .et_pb_team_member_image {
     max-width: 120px;
 }
-
+.home-content_right h4 {
+    font-weight: bold;
+}
 .home-content_right .et_pb_column {
     width: 32.6% !important;
     margin-right: 1% !important;
     box-shadow: 0px 0px 1px 0px;
-    padding: 10px;
+    padding: 1.8em 10px;
 }
 
 .home-content_right .et_pb_column:last-child {
     margin-right: 0px !Important;
+}
+.sidebar_home {
+   
+    margin-right: 2% !important;
+    width: 24.2% !important;
+    padding: 10px 0px;
+}
+
+.sidebar_home .bottom-sidebar-box { box-shadow: 0px 0px 3px 0px; padding: 24px 10px 34px !important;}
+
+.sidebar_home h6.additional-info {
+    padding: 10px 0px;
+}
+.sidebar_home h6.additional-info a { 
+    border-bottom: 2px solid #2E3094;
+    padding-bottom: 4px;
+    font-weight: 600;
+}
+.sidebar_home h4 {
+    padding: 10px 8px;
+    background: #303C56;
+    color: #fff;
+    font-size: 20px;
+    font-weight: 600;
+        margin-bottom: 6px;
+}
+#main-footer .widget_text {
+    width: 100%;
+}
+#main-footer .footer-widget {
+        margin-bottom: 12px;
+    text-align: center;
+}
+#main-footer #footer-widgets{padding-top: 36px}
+
+.top-sidebar-menu p {
+      float: left;
+    width: 100%;
+}
+
+.top-sidebar-menu a {
+    color: #6D6D6F;
+    font-weight: 600;
+    padding-bottom: 8px;
+    border-bottom: 2px solid;
+    border-style: dotted;
+    margin-bottom: 0px;
+    float: left;
+    width: 100%;
+}
+
+.top-sidebar-menu,.bottom-sidebar-box {
+    float: left;
+    width: 100%;
 }
