@@ -15,3 +15,54 @@ Template: Divi
 .logo_container a #logo {  max-height: 100%; }
 
 .logo_container a {  max-height: 100%; }
+
+.custom_header-top { float: right; width: 100%;}
+
+
+.custom_header-top .widget_text { float: right; padding-top: 20px;    margin-left: 16px}
+
+.et_header_style_left #et-top-navigation, .et_header_style_split #et-top-navigation {
+    padding-top: 20px;
+}
+
+.custom_header-top .widget_text#text-3 .textwidget { background: #2D3854; color: #fff; padding: 5px 17px;
+ font-size: 16px; text-transform: uppercase; }
+
+.custom_header-top ul.mg-wpsi li { border: 1px solid #2a2a2a;  width: 36px;  height: 36px; border-radius: 2em;
+	padding: 7px 6px;    position: relative;  margin: 0px 3px !important;  z-index: 999;}
+
+.custom_header-top .widget_text#text-3 .textwidget a {  color: #fff;}	
+
+header#main-header nav ul#top-menu li a {  color: #283955; font-size: 16px;  padding-bottom: 10px; }
+
+nav ul#top-menu li.current-menu-item{ border-bottom: 4px solid #2D3854;}  
+
+nav#top-menu-nav #top-menu li { padding: 0px 14px;  position: relative;   margin-bottom: 12px;}
+
+header#main-header .et_header_style_left .logo_container { top: 8px;}
+
+nav#top-menu-nav #top-menu li:after {  content: ''; position: absolute;  width: 2px; background: #2E3192; height: 16px;
+ right: 0;  top: 0;}
+
+#main-content .container:before { width: 0px;}
+
+nav#top-menu-nav #top-menu li:last-child:after {   width: 0;}
+
+nav#top-menu-nav #top-menu li:last-child {  padding-right: 0px; }
+
+.home-first-row .et_pb_column { margin-right: 2px; width: 49.9%;}
+
+.person-detail .et_pb_team_member_image {
+    max-width: 120px;
+}
+
+.home-content_right .et_pb_column {
+    width: 32.6% !important;
+    margin-right: 1% !important;
+    box-shadow: 0px 0px 1px 0px;
+    padding: 10px;
+}
+
+.home-content_right .et_pb_column:last-child {
+    margin-right: 0px !Important;
+}
