@@ -13,3 +13,5 @@ Template: Divi
 
 
 .logo_container a #logo {  max-height: 100%; }
+
+.logo_container a {  max-height: 100%; }
