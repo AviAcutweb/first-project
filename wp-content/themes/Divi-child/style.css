@@ -10,3 +10,6 @@ Template: Divi
 
 
 /* YOUR CSS EDITS GO BELOW THIS LINE AND AND CSS RULES YOU MAKE HERE WILL OVERIDE THE MASTER DIVI THEME CSS RULES */
+
+
+.logo_container a #logo {  max-height: 100%; }
